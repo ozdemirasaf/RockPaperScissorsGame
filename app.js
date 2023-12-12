@@ -59,7 +59,7 @@ optionImages.forEach((image, index) => {
                 SP: "User",
 
             };
-
+            // selam
             // Look up the autcome value based on user and CPU options 
             let autComeValue = outcomes[userValue + cpuValue];
 
